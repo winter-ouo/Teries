@@ -69,3 +69,4 @@ python main.py
 
 ## 遊戲實機
 ![遊戲實機(圖一)](images/P1.png)
+#### [實機影片連結 : https://youtu.be/wnvo6MZxR9g](https://youtu.be/wnvo6MZxR9g)
